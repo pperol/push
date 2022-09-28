@@ -1,2 +1,2 @@
 # push_swap
-This push_swap is an radix sort algorithm project at school 42.
+This push_swap is a radix sort algorithm project at school 42.
